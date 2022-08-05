@@ -1,0 +1,162 @@
+.container
+{
+  color:whitesmoke;
+ /* margin:left-bottom; */
+
+ /* footer{ */
+  floaT:left;
+  direction:flex;
+  flex-direction: row;
+  flex-wrap:wrap;
+  /* margin:4em; */
+}
+.color
+{
+  background-color: aquamarine;
+}
+/* } */
+
+/* footer-link1
+{direction:flex;
+  order:1;
+} */
+p{
+  margin:15px;
+}
+footer{
+  floaT:left;
+  margin:4em;
+}
+
+.SHREYA
+{ 
+  display:flex; 
+  width: 100px;
+  height: 100px;
+  padding: 5px;
+ 
+  position:relative;
+  top:20px;  
+}
+
+
+
+ .ARJIT:hover
+ {   display:float left; 
+  width: 100px;
+  height: 100px;
+  padding: 5px;
+
+  position:relative;
+  top:20px;
+  }
+
+
+img
+{
+  position:fixed;
+  top: 15px;
+  left:20px;
+  bottom:15px;
+}
+
+.hello
+{ position:sticky;
+  background-color:#18978F ;
+}
+span
+{ margin-right:0;
+  text-align:center;
+  margin:1em;
+  color:palegreen;
+  
+}
+.bg
+{
+  /* float:center; */
+  background-image: url('music.new.jpg'); 
+  /* background-repeat:round; */
+  height: 40px;
+  /* font-weight:40px; */
+  /* background-size:900px 900px;  */
+  /* background-size:300px 200px; */
+  background-position:center;
+  /* background-color: aqua; */
+  
+    background-color:#FF9F29 ; 
+}
+.new
+{
+  position:sticky; 
+    color:white;
+  text-align:right;
+  padding:15px;
+  /* margin-right:5px; */
+  background-repeat: no-repeat;
+  background-size:cover;
+  flex-direction: row;
+   background-image: url('music.new.jpg'); 
+  /* background-color: blue; */
+   /* display:flex; */
+        /* flex-direction: row; */
+    
+        background-color: aqua;
+        height:100px    /* This height has inctreades the heigth of the bbaclground color. */
+        /* margin-right:15px ; */
+
+
+   /* background-color:#FF9F29 ;  */
+  /* border:20px dashed black; */
+  
+ } 
+
+
+
+
+.muc:visited{
+  text-align:left;
+  height:70px;
+  border-width:50px;
+  border-radius: 10px
+}
+.music{
+  margin:10px auto 10px auto;
+  text-align:CENTER;
+  height:3em;
+  float:left;
+}
+
+
+/*
+pre{
+  text-align:center;
+  font-style:normal;
+  font-size: 30;
+}
+
+br{
+  text-align:right;
+}
+*/
+a
+{
+/* {background-color:blanchedalmond; */
+  color:black;
+  float:right;
+  /* align-items:center; */
+}
+hr
+{
+border-style:dotted none none;
+border-width:2px;
+width:100%;
+border-color:purple;
+height:0px;
+}
+li
+{
+  list-style:none;
+  display:inline;
+  padding:30px;
+  /* margin:20px; */
+}
