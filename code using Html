@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>MUSIC-WORLD</title>
+</head>
+
+<link rel="stylesheet" href="style.css">
+<link rel="icon" href="music.ico" />
+
+
+
+
+<body>
+
+
+
+  <!-- <img class="music" src="music-modified.png" alt="music"> -->
+  <div class="new">
+    <div class="color"></div>
+    <!-- <div class="n"> -->
+    <img class="music" src="music-modified.png" alt="music">
+    <h1>MUSIC WORLD</h1>
+    <!-- </div> -->
+    <!-- </div> -->
+    <header>
+      <nav>
+        <ul>
+          <li>
+            <a href><span>HELP</span></a>
+          </li>
+          <!-- &nbsp; -->
+          <li>
+            <a href="mailto:snehjain694@gmail.com"><span>CONTACT_ME</span></a>
+          </li>
+          <!-- &nbsp;&nbsp; -->
+          <li>
+            <a href><span>LOGIN</span></a>
+          </li>
+          <!-- left heree -->
+      </nav>
+      </ul>
+    </header>
+  </div>
+
+
+
+
+  <div class="hello">
+    <p>
+      Here,you can listen songs of your favourite songs of your favourite singers.
+    </p>
+  </div>
+  <hr>
+  <div class="songs">
+    <a href="HINDI.html"><span>HINDI</span></a>
+    <!-- &nbsp; -->
+    <a href="english.html"><span>English</span></a>
+    <!-- &nbsp; -->
+    <a href="Punjabi.html"><span>Punjabi</span></a>
+  </div>
+  </div>
+  <footer>
+    <div class="container">
+      <a class="footer-link1" href="https://www.linkedin.com/"><span>LinkedIn</span></a>
+      <a class="footer-link" href="https://twitter.com/"><span>Twitter</span></a>
+      <a class="footer-link" href="https://www.appbrewery.co/"><span>Website</span></a>
+      <p>© Sneha Jain</p>
+    </div>
+  </footer>
+</body>
+
+</html>
